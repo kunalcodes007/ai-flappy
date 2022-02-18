@@ -3,11 +3,16 @@
  #PREREQUISITES
  
  *python
+ 
  *neat
+ 
  *pygame
  
  #HOW TO INSTALL THEM?
- open cmd<(pip install ____(enter the file name))<open python<import the file you installed :)
+ 
+ <open cmd
+ <(pip install ____(enter the file name))
+ <open python<import the file you installed :)
  
  #REFERENCE 
 https://www.youtube.com/watch?v=ps55secj7iU&t=637s&ab_channel=TechWithTim
