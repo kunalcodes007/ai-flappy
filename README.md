@@ -1,6 +1,7 @@
 ![Screenshot (9)](https://user-images.githubusercontent.com/72959655/154726803-f8bf9121-550d-42eb-9d0d-2f53c870e67e.png)
  
  #PREREQUISITES
+ 
  *python
  *neat
  *pygame
